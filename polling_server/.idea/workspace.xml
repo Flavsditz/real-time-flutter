@@ -14,6 +14,9 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -35,6 +38,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WwiPbIIp03Rofwk1bChgOLttVx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -109,6 +113,7 @@
       <updated>1580067034403</updated>
       <workItem from="1580067038324" duration="15000" />
       <workItem from="1580067110917" duration="1733000" />
+      <workItem from="1580069999038" duration="603000" />
     </task>
     <servers />
   </component>

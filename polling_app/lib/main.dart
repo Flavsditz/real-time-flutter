@@ -28,6 +28,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  static const int INTERVAL_SEC = 2;
   int _counter = 0;
   Timer _t;
 
@@ -44,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // Here we do a one time Timer to call the function
     // that will request the data
     _t = Timer(
-      Duration(seconds: 2),
+      Duration(seconds: INTERVAL_SEC),
       _makeRequestForData,
     );
   }
@@ -88,7 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
       print('Response body: ${response.body}');
 
       _t = Timer(
-        Duration(seconds: 2),
+        Duration(seconds: INTERVAL_SEC),
         _makeRequestForData,
       );
     });
