@@ -1,4 +1,4 @@
-# Polling Server
+# Polling App
 
 This is the polling app example that go together with the Flutter article present in [Softwerker XX]().
 
