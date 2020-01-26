@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8defe30b-ea73-4704-a5ef-66c9b46d14ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gkyDlCCx" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WwiPbIIp03Rofwk1bChgOLttVx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimplePollingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimplePollingServer" />
+      <module name="polling_server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimplePollingServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../gatling" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../gatling-registration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../metro/address-improver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../metro/perf-tests" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8defe30b-ea73-4704-a5ef-66c9b46d14ac" name="Default Changelist" comment="" />
+      <created>1580067034403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580067034403</updated>
+      <workItem from="1580067038324" duration="15000" />
+      <workItem from="1580067110917" duration="1733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="189" key="#Project_Structure" timestamp="1580067168182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="189" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1580067168182" />
+    <state width="1874" height="269" key="GridCell.Tab.0.bottom" timestamp="1580068844139">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580068844139" />
+    <state width="1874" height="269" key="GridCell.Tab.0.center" timestamp="1580068844137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580068844137" />
+    <state width="1874" height="269" key="GridCell.Tab.0.left" timestamp="1580068844136">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580068844136" />
+    <state width="1874" height="269" key="GridCell.Tab.0.right" timestamp="1580068844138">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580068844138" />
+    <state x="448" y="105" key="SettingsEditor" timestamp="1580068174999">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="448" y="105" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1580068174999" />
+    <state width="489" height="302" key="javadoc.popup.new" timestamp="1580067692023">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="489" height="302" key="javadoc.popup.new/0.0.1920.1050@0.0.1920.1050" timestamp="1580067692023" />
+  </component>
+</project>
