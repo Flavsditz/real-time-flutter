@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8defe30b-ea73-4704-a5ef-66c9b46d14ac" name="Default Changelist" comment="" />
+    <list default="true" id="8defe30b-ea73-4704-a5ef-66c9b46d14ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/java/org/fdiez/long_polling_app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_app/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/long_polling_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../long_polling_server/src/main/java/SimpleLongPollingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polling_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../polling_app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimplePollingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimplePollingServer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +114,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WwiPbIIp03Rofwk1bChgOLttVx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +125,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -113,7 +192,7 @@
       <updated>1580067034403</updated>
       <workItem from="1580067038324" duration="15000" />
       <workItem from="1580067110917" duration="1733000" />
-      <workItem from="1580069999038" duration="603000" />
+      <workItem from="1580069999038" duration="1891000" />
     </task>
     <servers />
   </component>
@@ -149,5 +228,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="489" height="302" key="javadoc.popup.new/0.0.1920.1050@0.0.1920.1050" timestamp="1580067692023" />
+    <state x="335" y="222" width="1239" height="600" key="new project wizard" timestamp="1580072060471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="335" y="222" width="1239" height="600" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1580072060471" />
   </component>
 </project>
