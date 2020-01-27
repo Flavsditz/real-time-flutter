@@ -1,3 +1,4 @@
+import 'package:eventsource/eventsource.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
@@ -27,6 +28,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
+  EventSource eventSource;
 
   void _incrementCounter() {
     setState(() {
@@ -35,11 +37,10 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   @override
-  void initState() {
+  Future<void> initState() {
     super.initState();
 
-    // Now we want to poll for data right away
-    _makeRequestForData();
+    _setUpEventSource();
   }
 
   @override
@@ -69,20 +70,31 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
-  _makeRequestForData() {
-    // The 10.0.2.2 address allows the android emulator to connect to
-    // the localhost on the computer it is running on.
-    var url = 'http://10.0.2.2:8000/data';
-    http.get(url).then((response) {
-      DateTime dt = DateTime.now();
-      print("--------------------------------------------");
-      print("${dt.minute}:${dt.second}:${dt.millisecond}");
-      print('Response status: ${response.statusCode}');
-      print('Response body: ${response.body}');
+  void _setUpEventSource() async {
+    // First we want to register with the server for incoming events
+    eventSource = await EventSource.connect("http://10.0.2.2:8000/sse");
 
-      // After receiving the data we want to immediately
-      // make the request again
-      _makeRequestForData();
+    // And for now we are just printing what we get
+    eventSource.listen((Event event) {
+      printCurrentTime();
+      print("  event: ${event.event}");
+      print("  data: ${event.data}");
     });
+  }
+
+  void printCurrentTime() {
+    var dt = new DateTime.now();
+
+    var hour = dt.hour.toString().padLeft(2, "0");
+    var minute = dt.minute.toString().padLeft(2, "0");
+    var second = dt.second.toString().padLeft(2, "0");
+    print("New event at $hour:$minute:$second");
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
+
+    eventSource.client.close();
   }
 }
