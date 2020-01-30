@@ -1,6 +1,6 @@
 # Websocket Server
 
-This is the Websocket server example that go together with the Flutter article present in [Softwerker XX]().
+This is the Websocket server example that go together with the Flutter article present in [Softwerker 14]().
 
 
 ## Usage

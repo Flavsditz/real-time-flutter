@@ -1,6 +1,6 @@
 # Polling Server
 
-This is the polling server example that go together with the Flutter article present in [Softwerker XX]().
+This is the polling server example that go together with the Flutter article present in [Softwerker 14]().
 
 
 ## Usage

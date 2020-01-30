@@ -1,6 +1,6 @@
 # Long Polling App
 
-This is the long polling app example that go together with the Flutter article present in [Softwerker XX]().
+This is the long polling app example that go together with the Flutter article present in [Softwerker 14]().
 
 
 ## Usage

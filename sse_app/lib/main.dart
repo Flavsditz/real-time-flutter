@@ -1,6 +1,5 @@
 import 'package:eventsource/eventsource.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
 
 void main() => runApp(MyApp());
 

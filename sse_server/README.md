@@ -1,6 +1,6 @@
 # Server-Sent Events Server
 
-This is the SSE server example that go together with the Flutter article present in [Softwerker XX]().
+This is the SSE server example that go together with the Flutter article present in [Softwerker 14]().
 
 
 ## Usage
